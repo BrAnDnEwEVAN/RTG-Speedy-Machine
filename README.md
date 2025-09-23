@@ -1,2 +1,2 @@
 # RTG-Speed-Machine
-the codes for the speedy machine
+copy a code then paste it in rtg
